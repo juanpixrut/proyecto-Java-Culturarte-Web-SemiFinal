@@ -268,4 +268,12 @@ public class propuesta implements Serializable {
     this.hora = hora;
     }
     
+    public void setTitulo(String titulo){
+    this.titulo = titulo;
+    }
+    
+    public void setProponente(proponente prop){
+    this.prop = prop;
+    }
+    
 }

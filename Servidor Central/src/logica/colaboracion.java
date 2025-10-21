@@ -82,4 +82,9 @@ public class colaboracion implements Serializable {
     return fecha;
     }
     
+    //para los test.
+    public void setId(int id){
+    this.id = id;
+    }
+    
 }

@@ -1,3 +1,8 @@
+tener docker corriendo. : sudo systemctl start docker
+sudo docker compose up -d
+ejecutar el script para levantar la bd
+ejecutar la app escritorio para mapearla
+
 cd y busco apache-tomcat-9.0.80/bin
 chmod +x *.sh
 
@@ -9,3 +14,5 @@ source ~/.bashrc
 echo $JAVA_HOME
 
 ./startup.sh
+
+entro a la web.

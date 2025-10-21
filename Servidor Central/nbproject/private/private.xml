@@ -3,32 +3,23 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto-Java-Culturarte/src/presentacion/Pantalla.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto-Java-Culturarte/src/presentacion/PanelConsulta.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto-Java-Culturarte/src/presentacion/PanelColaboraciones.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto-Java-Culturarte/src/presentacion/PanelAltaUsuario.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto-Java-Culturarte/src/logica/colaborador.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto-Java-Culturarte/src/presentacion/PanelModifico.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto-Java-Culturarte/src/META-INF/persistence.xml</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto-Java-Culturarte/src/persistencia/ControladoraPersistencia.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto-Java-Culturarte/src/presentacion/PanelConsultaColab.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto-Java-Culturarte/src/persistencia/usuarioJpaController.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto-Java-Culturarte/src/logica/ictrl.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto-Java-Culturarte/src/logica/colaboracion.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto-Java-Culturarte/src/presentacion/PanelLaWebLogin.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto-Java-Culturarte/src/logica/proponente.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto-Java-Culturarte/src/logica/categoria.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto-Java-Culturarte/src/presentacion/PanelIngresoCategoria.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto-Java-Culturarte/src/presentacion/PanelLaWeb.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto-Java-Culturarte/src/logica/propuesta.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto-Java-Culturarte/src/logica/estadoPropuesta.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto-Java-Culturarte/src/logica/ctrl.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto-Java-Culturarte/src/logica/historialEstado.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto-Java-Culturarte/src/main/resources/META-INF/persistence.xml</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto-Java-Culturarte/src/presentacion/PanelPropuestas.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto-Java-Culturarte/src/presentacion/PanelLaWebEvaluar.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto-Java-Culturarte/src/logica/fabrica.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto-Java-Culturarte/src/logica/usuario.java</file>
+            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/logica/dtos/EstadoPropuestaDTO.java</file>
+            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/logica/proponente.java</file>
+            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/logica/propuesta.java</file>
+            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/logica/colaboracion.java</file>
+            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/presentacion/PanelAltaUsuario.java</file>
+            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/logica/dtos/ColaboracionDTO.java</file>
+            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/logica/dtos/CategoriaDTO.java</file>
+            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/logica/dtos/ProponenteDTO.java</file>
+            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/logica/dtos/PropuestaDTO.java</file>
+            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/logica/dtos/UsuarioDTO.java</file>
+            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/logica/usuario.java</file>
+            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/logica/dtos/ColaboradorDTO.java</file>
+            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/presentacion/Pantalla.java</file>
+            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/culturarte/Culturarte.java</file>
+            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/test/test/ControladoraTest.java</file>
+            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/logica/ctrl.java</file>
+            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/logica/ictrl.java</file>
         </group>
     </open-files>
 </project-private>

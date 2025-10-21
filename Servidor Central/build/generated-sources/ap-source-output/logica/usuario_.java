@@ -8,7 +8,7 @@ import javax.persistence.metamodel.StaticMetamodel;
 import logica.propuesta;
 import logica.usuario;
 
-@Generated(value="org.eclipse.persistence.internal.jpa.modelgen.CanonicalModelProcessor", date="2025-10-17T01:41:18", comments="EclipseLink-2.7.12.v20230209-rNA")
+@Generated(value="org.eclipse.persistence.internal.jpa.modelgen.CanonicalModelProcessor", date="2025-10-21T01:27:03", comments="EclipseLink-2.7.12.v20230209-rNA")
 @StaticMetamodel(usuario.class)
 public class usuario_ { 
 

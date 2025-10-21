@@ -135,4 +135,20 @@ public class usuario implements Serializable {
     return propuestasFavoritas;
     }
     
+    public void setNickname(String nickname){
+    this.nickname = nickname;
+    }
+    
+    public void setContrasena(String contrasena){
+    this.contrasena = contrasena;
+    }
+    
+    public void setFavoritas(List<propuesta> propuestas){
+    this.propuestasFavoritas = propuestas;
+    }
+    
+    public void setSeguidores(List<usuario> seguidores){
+    this.seguidores = seguidores;
+    }
+        
 }
