@@ -10,7 +10,7 @@ services:
       MYSQL_PASSWORD: ${MYSQL_PASSWORD}
       TZ: ${TZ}
     ports:
-      - 3307:3307
+      - 3307:3306
     volumes:
       - DockerDB:/var/lib/mysql
     command: >
