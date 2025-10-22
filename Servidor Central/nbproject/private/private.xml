@@ -2,24 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/logica/dtos/EstadoPropuestaDTO.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/logica/proponente.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/logica/propuesta.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/logica/colaboracion.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/presentacion/PanelAltaUsuario.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/logica/dtos/ColaboracionDTO.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/logica/dtos/CategoriaDTO.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/logica/dtos/ProponenteDTO.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/logica/dtos/PropuestaDTO.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/logica/dtos/UsuarioDTO.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/logica/usuario.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/logica/dtos/ColaboradorDTO.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/presentacion/Pantalla.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/culturarte/Culturarte.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/test/test/ControladoraTest.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/logica/ctrl.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/proyectos/culturarteFinal/proyecto%20java%20culturarte/src/logica/ictrl.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
