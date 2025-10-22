@@ -11,7 +11,7 @@ import logica.estadoPropuesta;
 import logica.historialEstado;
 import logica.proponente;
 
-@Generated(value="org.eclipse.persistence.internal.jpa.modelgen.CanonicalModelProcessor", date="2025-10-21T21:49:51", comments="EclipseLink-2.7.12.v20230209-rNA")
+@Generated(value="org.eclipse.persistence.internal.jpa.modelgen.CanonicalModelProcessor", date="2025-10-21T22:17:56", comments="EclipseLink-2.7.12.v20230209-rNA")
 @StaticMetamodel(propuesta.class)
 public class propuesta_ { 
 

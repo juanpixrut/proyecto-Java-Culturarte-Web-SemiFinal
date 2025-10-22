@@ -1,0 +1,20 @@
+sudo systemctl start docker
+docker ps
+chmod +x *.sh
+./script.sh
+creo el jar con netbeans.
+java -jar culturarte.jar
+
+busco apache-tomcat-9.0.80/bin
+chmod +x *.sh
+
+nano ~/.bashrc
+export JAVA_HOME=/usr/lib/jvm/java-21-openjdk-amd64
+export PATH=$JAVA_HOME/bin:$PATH
+Guardá con Ctrl+O, luego Enter, y salí con Ctrl+X.
+source ~/.bashrc
+echo $JAVA_HOME
+
+./startup.sh
+
+entro a la web.
